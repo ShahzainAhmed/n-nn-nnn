@@ -4,4 +4,4 @@
 ### The program takes a number n and computes n+nn+nnn.
 
 ## Problem Solution: 
-### Take the value of a element 
+### Take the value of a element and store in a variable n.
