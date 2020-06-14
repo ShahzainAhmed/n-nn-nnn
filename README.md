@@ -8,3 +8,4 @@
 - Convert the integer into string and store it in another variable.
 - Add the string twice so the string gets concatenated and store it in another variable.
 - Then add the string thrice and assign the value to the third variable.
+- Add the values in all 
