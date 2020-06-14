@@ -5,4 +5,4 @@
 
 ## Problem Solution: 
 - Take the value of a element and store in a variable n.
-- Convert the integer into string and store
+- Convert the integer into string and store it in another variable.
