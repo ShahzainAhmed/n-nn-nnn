@@ -15,3 +15,4 @@
 ## Program Explanation:
 - User must first enter the value and store it in a variable n.
 - The integer is converted to string for concatenation of the value of n.
+- The string is then concatenated
