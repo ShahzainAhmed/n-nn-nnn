@@ -7,3 +7,4 @@
 - Take the value of a element and store in a variable n.
 - Convert the integer into string and store it in another variable.
 - Add the string twice so the string gets concatenated and store it in another variable.
+- Then add the string thrice
