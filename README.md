@@ -13,3 +13,4 @@
 - Done.
 
 ## Program Explanation:
+- User must first enter the value and store it in a variable n.
