@@ -17,3 +17,4 @@
 - The integer is converted to string for concatenation of the value of n.
 - The string is then concatenated once and twice and stored in separate variables.
 - Later to find the total sum, the string is converted back to integer.
+- The total value of the expression is then printed.
